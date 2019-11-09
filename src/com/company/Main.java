@@ -29,7 +29,7 @@ public class Main {
             decodedStr += encodedChar;
         }
 		
-		
+		// the test
 
         System.out.println(decodedStr);
     }
