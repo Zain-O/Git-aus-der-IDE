@@ -28,6 +28,8 @@ public class Main {
             char encodedChar = (char) sum;
             decodedStr += encodedChar;
         }
+		
+		
 
         System.out.println(decodedStr);
     }
